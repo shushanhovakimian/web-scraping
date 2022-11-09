@@ -1,0 +1,6 @@
+from bs4 import BeautifulSoup
+import pandas as pd
+pip install psycopg2
+import requests
+import json
+import re
